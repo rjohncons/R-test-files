@@ -1,3 +1,4 @@
+// can I add a comment up here?
 data {
   int<lower=0> J; // number of schools 
   real y[J]; // estimated treatment effects
